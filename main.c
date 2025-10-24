@@ -17,5 +17,6 @@ int sub(int x, int y)
 int main()
 {
 	printf("Hello, world\n");
+	printf("Edited on main branch\n");
 	return 0;
 }
